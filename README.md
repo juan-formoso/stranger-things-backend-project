@@ -24,7 +24,7 @@ Requisições:
 ## Clonando o repositório:
 
 1. Clone o repositório
-  * `git clone `.
+  * `git clone git@github.com:juan-formoso/stranger-things-backend-project.git`.
   * Entre na pasta do repositório clonado:
     * `cd stranger-things-backend-project`
 
@@ -48,5 +48,5 @@ DICA: *Recomendo Postman, Insomnia ou a extensão Thunder Client do VS Code ;)*
 
 ### Live App on Heroku
 
-- [teste]()
-- [teste]()
+- [Hawkins API](https://juan-formoso-up.herokuapp.com/)
+- [API Mundo Invertido U.u](https://juan-formoso-dw.herokuapp.com/)
