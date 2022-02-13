@@ -1,11 +1,11 @@
 # Stranger Things Project - Backend
 
-# Contexto
-Este projeto consiste no desenvolvimendo de uma API RESTful utilizando a arquitetura MSC. A API a ser construída trata-se de um sistema de gerenciamento de vendas, onde será possível criar, visualizar, deletar e atualizar produtos e vendas (`CRUD`, para os mais íntimos 😜).
+# Explicação
+Este projeto trata-se da realização do deploy de uma aplicação com a temática de Stranger Things!
 
-Desenvolvi as camadas de: Models, Services e Controllers.
+Importante salientar que apenas ADAPTEI e fiz pequenas configurações no frontend e no backend do app e coloquei-os no ar com o Heroku, utilizando o Docker em ambiente de produção. As alterações realizadas consistiam em aplicar o uso de variáveis de ambientes para modificar o comportamento e lógica das APIs, o desenvolvimento das actions e configurações do Docker!
 
-O banco utilizado em questão para gestão de dados foi o MySQL e para testar as requisições utilizei o Postman.
+- [Repositório do Front-End](https://github.com/juan-formoso/stranger-things-frontend-project)
 
 ## Tecnologias usadas
 
